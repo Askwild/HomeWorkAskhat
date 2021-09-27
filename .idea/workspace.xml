@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3b93042f-4ff0-4a7e-be09-0ca7b6c0bdd7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork1/HomeWorkApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork1/src/main/java/HomeWorkApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork4" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework1.0" />
+        <entry key="$PROJECT_DIR$" value="Homework4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
